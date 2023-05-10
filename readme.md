@@ -13,6 +13,7 @@ The program also allows users to arbitrarily re-assign due dates.
 
 The requirement that the interval be constant can be lessened to an adjustable
 rate where the user then has to edit the rate at a time of their choosing. 
+Be aware that changing the interval does not automatically update the next due date.
 
 ## Use
 The main window of the program displays tasks that are currently due. 
