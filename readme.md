@@ -16,9 +16,12 @@ rate where the user then has to edit the rate at a time of their choosing.
 
 ## Use
 The main window of the program displays tasks that are currently due. 
+
 ![main view](Images/main.png)
+
 We can add items by clicking the button that says add.
 
+![add view](Images/add.png)
 
 This takes us to a window where we can enter fields such as:
 - Description: describes the task to be completed.
@@ -36,6 +39,10 @@ Once an item is added, we can edit the item attributes and see the item
 completion history. To do this we click on edit / search in the main window
 then select the item.
 
+![edit select view](Images/search.png)
+
+![selected view](Images/selected.png)
+
 We can mark items as completed from the main view, simply click the checkbox 
 next to the item, and click "mark complete". 
 To change the due date ("snooze") the item, click the checkbox, enter the new 
@@ -48,10 +55,14 @@ were completed, we can use "look ahead/back". This takes us to a window where
 we can make a quick query such as "ahead 3 months", "back 2 days", or, make a 
 specific date range query "From 1/1/2023 to "2/2/2023 inclusive".
 
+![look select view](Images/look.png)
+
 Once the date range is slected we will be able to see both upcoming items and
 items that were completed in the range selected from the same view. We can 
 mark items as complete, snooze them, remove and or edit the completion of tasks
 from this view. 
+
+![ahead back view](Images/ahead.png)
 
 ## Quick setup for demo
 These instructions have been tested on Debian and should work on other Linux 
