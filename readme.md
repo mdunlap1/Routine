@@ -100,7 +100,7 @@ the main view.)
 will not (at this point) automatically update the due date. 
 
 - The columns in main view and elsewhere are sortable, however dates are sorted
-lexicographically, so unless the user a format where lexicographical sorting is
+lexicographically, so unless the user uses a format where lexicographical sorting is
 the same as chronological sorting, for example 2023-05-30 type formatting, the
 results will be contrary to intuition.  
 
