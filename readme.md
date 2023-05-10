@@ -57,9 +57,9 @@ These instructions have been tested on Debian and should work on other Linux
 distros. They will likely not work on Mac or Windows.
 
 0. Clone the repository
-1. Make the database with '''make create'''
-2. Make the application with '''make'''
-3. Run the application with '''./routine'''
+1. Make the database with ```make create```
+2. Make the application with ```make```
+3. Run the application with ```./routine```
 
 ## Configure the application
 There are two provided language header files:
@@ -105,7 +105,7 @@ of the instructions available from GTK and have been tested on Debian 10.
 3. Choose an icon, or use the drawing of a fish provided in the repo.
 4. Place the icon in the appropriate folder. For me this is in /usr/share/icons/hicolor/48x48/apps/
 5. Make a desktop entry called routine.desktop in /usr/share/applications. Mine looks like this: 
-'''
+```
 [Desktop Entry]
 Name=Routine
 Comment=
@@ -115,7 +115,7 @@ Categories=Office
 GenericName=
 Keywords=
 Icon=/usr/share/icons/hicolor/48x48/apps/fish.png
-'''
+```
 
 Note: This will install so that any user on the same computer is able to use
 the application <em>with the same database</em>. Therefore the appropriate 
