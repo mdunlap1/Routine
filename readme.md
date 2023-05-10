@@ -16,7 +16,7 @@ rate where the user then has to edit the rate at a time of their choosing.
 
 ## Use
 The main window of the program displays tasks that are currently due. 
-![main view](Images/main)
+![main view](Images/main.png)
 We can add items by clicking the button that says add.
 
 
