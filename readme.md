@@ -1,7 +1,7 @@
 ## Overview
 Performing routine maintenance on appliances and automotives can greatly prolong
 their lifespan. This program is designed to keep track of and schedule
-maintenance for any task that satisifes that following conditions:
+maintenance for any task that satisifes the following conditions:
 1. The interval of maintenance is constant
 2. Beyond the initial due date the next due date for the item depends only on the last completion date and the interval. 
 
