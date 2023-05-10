@@ -15,8 +15,9 @@ The requirement that the interval be constant can be lessened to an adjustable
 rate where the user then has to edit the rate at a time of their choosing. 
 
 ## Use
-The main window of the program displays tasks that are currently due. We can 
-add items by clicking the button that says add.
+The main window of the program displays tasks that are currently due. 
+![main view](Images/main)
+We can add items by clicking the button that says add.
 
 
 This takes us to a window where we can enter fields such as:
