@@ -70,9 +70,10 @@ These instructions have been tested on Debian and should work on other Linux
 distros. They will likely not work on Mac or Windows.
 
 0. Clone the repository
-1. Make the database with ```make create```
-2. Make the application with ```make```
-3. Run the application with ```./routine```
+1. Make the database generation code with ```make create```
+2. Make the database with ```./create```
+3. Make the application with ```make```
+4. Run the application with ```./routine```
 
 ## Configure the application
 There are two provided language header files:
