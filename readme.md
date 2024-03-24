@@ -66,11 +66,10 @@ from this view.
 ![ahead back view](Images/ahead.png)
 
 ## Quick setup for demo
-These instructions have been tested on Debian and might work on other Linux 
+These instructions have been tested on Debian 10 and might work on other Linux 
 distros. They will likely not work on Mac or Windows.
 
-Requirements (that have been tested):
-- Debian 10
+Requirements:
 - sqlite3 v3.27.2
 - gtk v3.0
 
