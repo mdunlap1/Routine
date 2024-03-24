@@ -70,9 +70,9 @@ These instructions have been tested on Debian and might work on other Linux
 distros. They will likely not work on Mac or Windows.
 
 Requirements (that have been tested):
--Debian 10
--sqlite3 v3.27.2
--gtk v3.0
+- Debian 10
+- sqlite3 v3.27.2
+- gtk v3.0
 
 0. Clone the repository
 1. Make the database generation code with ```make create```
